@@ -9,4 +9,4 @@ add to autostart (tested kde plasma for example) : exercise_planner_daemon.deskt
 add to apllications (tested kde plasma for example) : exercise_planner.desktop /// ~/.local/share/applications/exercise_planner.desktop
 
 
-use exercise_planner to addd plan for exercises
+use exercise_planner to add plan items for exercises
