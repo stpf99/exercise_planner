@@ -1,0 +1,25 @@
+{
+  "reference_date": "2025-03-20",
+  "plan": {
+    "1": {
+      "08:00": "Pochod\u017a po domu 10 minut",
+      "10:00": "Sta\u0144 prosto plecami do \u015bciany tak aby przylega\u0142 kr\u0119gos\u0142up",
+      "12:00": "Pochod\u017a po domu 10 minut",
+      "20:45": "Pochod\u017a po domu 15 minut"
+    },
+    "2": {
+      "09:00": "Sta\u0144 prosto plecami do \u015bciany tak aby przylega\u0142 kr\u0119gos\u0142up",
+      "11:00": "Pochod\u017a po domu 10 minut",
+      "14:00": "Sta\u0144 prosto plecami do \u015bciany tak aby przylega\u0142 kr\u0119gos\u0142up"
+    },
+    "3": {
+      "08:30": "Pochod\u017a po domu 10 minut",
+      "13:00": "Sta\u0144 prosto plecami do \u015bciany tak aby przylega\u0142 kr\u0119gos\u0142up",
+      "18:00": "Pochod\u017a po domu 10 minut",
+      "20:30": "Pochod\u017a po domu 15 minut"
+    },
+    "1": {
+      "20:42": "wstan i usiadz 5 razy"
+    }
+  }
+}
