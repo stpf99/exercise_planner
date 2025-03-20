@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Utility;Productivity;
+Comment[pl_PL]=Plan your exercises with a custom calendar
+Comment=Plan your exercises with a custom calendar
+Exec=/usr/bin/python3 /opt/exercise_planner/gui_main.py
+GenericName[pl_PL]=
+GenericName=
+Icon=exercise_planner
+MimeType=
+Name[pl_PL]=Exercise Planner
+Name=Exercise Planner
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

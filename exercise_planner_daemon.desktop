@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Exercise Planner Daemon
+Comment=Background daemon for exercise notifications
+Exec=/usr/bin/python3 /opt/exercise_planner/daemon_main.py
+Type=Application
+Terminal=false
+Hidden=false
+X-KDE-autostart-enabled=true
